@@ -1,6 +1,6 @@
 # Hi I'm Aswin Asokan 👋
 
-I'm an aspiring application developer who loves finding creative solutions to problems. Currently, I'm pursuing a diploma in engineering from [Government Polytechnic College Kalamassery](https://learn.gptckalamassery.ac.in/). I'm a quick learner and curious about learning new stuff. Other than that I love listening to music and draw something or read an interesting book.   
+Hi there! I'm an aspiring application developer who loves finding creative solutions to problems. I have completed my diploma in computer engineering from [Government Polytechnic College Kalamassery](https://learn.gptckalamassery.ac.in/). Currently I'm improving myself by learning more about full stack web development and application development using Flutter.
 
 **Languages and Tools :**    
 
